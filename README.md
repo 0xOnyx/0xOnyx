@@ -6,7 +6,7 @@
 
 
 - 📫 How to reach me: info@jeremy.best
-- 😄 Pronouns: jeje720
+- 😄 Pronouns: Onyx
 - ⚡ Fun fact: i learn for my hoby
 
 
