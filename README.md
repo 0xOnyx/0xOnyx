@@ -1,13 +1,13 @@
 ### Hi there 👋
 **0x6ae972e96d79**
 
-- 🔭 I’m currently working on big project 
+- 🔭 I’m currently working on a big project 
 - 🌱 I’m currently learning C
 
 
 - 📫 How to reach me: info@jeremy.best
-- 😄 Pronouns: Onyx
-- ⚡ Fun fact: i learn for my hoby
+- 😄 Sudo rm -rf /
+- ⚡ Fun fact: i learn for my hobby
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xOnyx&count_private=true&show_icons=true&theme=slateorang&include_all_commits=true)](http://www.jeremy.best/game)
