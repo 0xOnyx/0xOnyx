@@ -10,6 +10,6 @@
 - ⚡ Fun fact: i learn for my hobby
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xOnyx&count_private=true&show_icons=true&theme=slateorang&include_all_commits=true)](http://www.jeremy.best)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0xOnyx&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](http://www.jeremy.best)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=slateorange&langs_count=7&count_private=true)](http://www.jeremy.best)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&langs_count=7&count_private=true)](http://www.jeremy.best)
