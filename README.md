@@ -2,7 +2,7 @@
 **0x6ae972e96d79**
 
 - 🔭 I’m currently working on a big project 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning ASM X86
 
 
 - 📫 How to reach me: info@jeremy.best
